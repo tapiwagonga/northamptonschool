@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">northamptonschool</string>
+    <string name="add_note">Add note</string>
+    <string name="logo_description">Rerun cognoscere causas</string>
+    <string name="invalid_input">Please enter valid numbers.</string>
+    <string name="cannot_divide_by_zero">Cannot divide by zero.</string>
+    <string name="cannot_mod_by_zero">Cannot modulus by zero.</string>
+    <string name="result_text">Result: </string>
+    <string name="error_message">Error.</string>
+    <string name="note_content_hint">Enter note: </string>
+    <string name="save_note">Save note: </string>
+</resources>
